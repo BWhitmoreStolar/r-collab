@@ -8,3 +8,5 @@ Test rmarkdown
 Conflict
 
 Conflict 2
+
+CONFLICT
