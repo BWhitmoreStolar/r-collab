@@ -10,4 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ![baby woodchucks](https://wisconsinpollinators.com/Images/Articles/Groundhogs.jpg)
+<<<<<<< HEAD
 Aw baby woodchucks
+=======
+# They're all the same
+>>>>>>> 296cf3f489cdd89807290f5c5a97d71981b0ae4c
