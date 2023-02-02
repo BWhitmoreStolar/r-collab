@@ -1,0 +1,12 @@
+---
+title: "Woodchuck"
+author: "Beth"
+date: "2023-02-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![baby woodchucks](https://wisconsinpollinators.com/Images/Articles/Groundhogs.jpg)
